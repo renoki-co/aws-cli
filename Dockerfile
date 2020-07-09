@@ -7,7 +7,7 @@ RUN apk --no-cache --update add \
     jq \
     git \
     curl \
-    python \
+    python3 \
     py-pip
 
 RUN pip install --upgrade pip \
