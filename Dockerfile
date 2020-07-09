@@ -6,6 +6,7 @@ RUN apk --no-cache --update add \
     groff \
     jq \
     git \
+    gcc \
     curl \
     python3 \
     py-pip
