@@ -9,6 +9,7 @@ RUN apk --no-cache --update add \
     gcc \
     curl \
     python3-dev \
+    libc-dev \
     python3 \
     py-pip
 
